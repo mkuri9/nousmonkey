@@ -5,4 +5,6 @@
  
 ## My Notes:
 1. [Formal Theories of Language](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md)
-2. [Philosophical Anthropology]()
+2. [Philosophy of Aritificial Inteligence]()
+3. [Philosophical Anthropology]()
+4. 
