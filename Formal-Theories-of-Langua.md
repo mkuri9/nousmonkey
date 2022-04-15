@@ -1,10 +1,4 @@
----
-id: 1dgcv836rqm5wn09zpi887h
-title: Class
-desc: ''
-updated: 1650000950042
-created: 1646726669121
----
+
 ## Intro:
 
 #### go to text:
