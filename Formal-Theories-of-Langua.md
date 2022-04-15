@@ -3,7 +3,7 @@
 
 #### go to text:
 Content Texts:
-[Text for "Formal Theories of Language](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-L-Texts.md) 
+[Text for "Formal Theories of Language"](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-L-Texts.md) 
 
 ## Lecture 3:
 
