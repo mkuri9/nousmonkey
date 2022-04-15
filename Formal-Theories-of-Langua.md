@@ -1,6 +1,3 @@
-
-## Parts:
-
 ## Go to Nousmonkey Repository Main Menue:
 [main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) <br>
 ## Go to the texts notes for "Formal Theories of Language":
