@@ -4,5 +4,5 @@
   1. these are my BA-MA notes
  
 ## My Notes:
-1. [Formal Theories of Language]()
+1. [Formal Theories of Language](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-L-Texts.md)
 2. [Philosophical Anthropology]()
