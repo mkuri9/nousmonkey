@@ -1,9 +1,8 @@
-Back to [Formal Theories of Language: main page](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md) <br>
-Go back to [main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) 
+## Go to Nousmonkey Repository Main Menue:
+[main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) <br>
 
-# Formal Theories of Language
-
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+## Go to the Class Notes for "Formal Theories of Language":
+[Formal Theories of Language: main page](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md) 
 
 ## Reading 2: Chomsky: Modern Linguistics
 
