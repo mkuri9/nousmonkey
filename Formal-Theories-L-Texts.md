@@ -2,7 +2,7 @@
 [main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) <br>
 
 ## Go to the Class Notes for "Formal Theories of Language":
-[Formal Theories of Language: main page](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md) 
+[Class Notes](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md) 
 
 ## Reading 2: Chomsky: Modern Linguistics
 
