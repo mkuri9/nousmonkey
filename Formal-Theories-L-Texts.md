@@ -1,4 +1,4 @@
-Back to [[root]]
+Back to [Formal Theories of Language: main page](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-of-Langua.md)
 
 # Formal Theories of Language
 
