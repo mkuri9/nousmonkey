@@ -1,11 +1,5 @@
----
-id: kjbc9tyc59yc8w8069tzhxg
-title: Texts
-desc: ''
-updated: 1650010601902
-created: 1646726685780
----
-Back to [[root]]
+
+Back to [root](https://github.com/mkuri9/nousmonkey/blob/main/root.md)
 
 # Formal Theories of Language
 
@@ -349,7 +343,8 @@ not declarative statements.
     semantic relatedness
 
 5. Now  it is appropriate to ask the following  <br>     
-   question: what would it mean for, say, a theory <br> of situations (or states of affairs) to be able to <br> supporta characterization of entailment?
+   question: what would it mean for, say, a theory <br> 
+    of situations (or states of affairs) to be able to <br> supporta characterization of entailment?
     1. if s7 is true, s9 must be true. 
 ---
 ### Reference and Sense
