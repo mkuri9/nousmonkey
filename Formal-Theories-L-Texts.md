@@ -460,9 +460,9 @@ not declarative statements.
     2. It is not the case that Pavarotti <br>
      is hungry or Sophia Loren is boring.
 
-![23:](/assets/images/2022-04-14-16-50-20.png)
+![image](https://user-images.githubusercontent.com/103745249/163576207-d054fb0a-7700-43bc-8f6c-327889ca75e1.png)
+![image](https://user-images.githubusercontent.com/103745249/163576285-9e926962-e12d-4668-8ef8-38951924f40f.png)
 
-![](/assets/images/2022-04-14-16-51-14.png)
 
 #### Semantics for F1:
 1. compositionality
@@ -512,7 +512,8 @@ not declarative statements.
             2. function = a systematic connection <br>
                betwee specific inputs and outputs. 
 
-               ![](/assets/images/2022-04-15-00-48-20.png)
+               ![image](https://user-images.githubusercontent.com/103745249/163576333-f3575a8a-98c0-4956-97a1-9170429199b5.png)
+
 
             3. operators = abstract objects as <br>
                the semantic values of logical words.
@@ -525,17 +526,14 @@ not declarative statements.
        1. this will guarantee that any <br>
           syntactically valid tree is <br>
           interpretable.
-        ![](/assets/images/2022-04-15-00-55-46.png) 
+        ![image](https://user-images.githubusercontent.com/103745249/163576368-52bdcf36-895a-4248-8c8a-70d787072177.png)
+
 
         2. sentence content = relation between <br>
             sentences and situations
             1. under what situation is s true. 
         3. entailment:
-        ![](/assets/images/2022-04-15-01-02-54.png)
-
-##### **Entailment**:
-
-![](/assets/images/2022-04-15-01-11-35.png)
+        ![image](https://user-images.githubusercontent.com/103745249/163576428-4a62ccd8-0c4b-493b-8155-0d78cb780352.png)
 
 
 ---
