@@ -1,10 +1,3 @@
----
-id: kjbc9tyc59yc8w8069tzhxg
-title: Texts
-desc: ''
-updated: 1650010601902
-created: 1646726685780
----
 Back to [[root]]
 
 # Formal Theories of Language
