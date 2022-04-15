@@ -1,9 +1,9 @@
 
-## Intro:
+## Parts:
 
-#### go to text:
-Go back to [main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) <br>
-Content Texts: <br>
+## go to Nousmonkey Repository Main Menue:
+[main Nousmonkey](https://github.com/mkuri9/nousmonkey/blob/main/Main%20Nousmonkey.md) <br>
+## go to text:
 [Text for "Formal Theories of Language"](https://github.com/mkuri9/nousmonkey/blob/Formal-Theories-of-Language/Formal-Theories-L-Texts.md) 
 
 
