@@ -288,9 +288,30 @@ the set have a placing order = ordererd set. <br>
 Logic does not tell why logic itself is consistent <br>
 Logic aims to model intuition of speakers, not replace <br> them
 
-
-
-
+## Lecture 7:
+1. wholism and compositionality putting together <br>
+    under a theoretical model. 
+    1. abstraction =
+        1. the capacity to transform the wholistic <br>
+           meaning of a sentence with the meaning of <br>
+           of each word: starts to recognise from the context <br>
+           the individual words. 
+    2. wholism = 
+        1. Baby knows what a sentence means as a whole, but not the <br>
+           the meaning of its parts. 
+  
+ #### The semantics of Predicate logic:
+ 1. quantification (see wiki about it)
+        1. Stating that all elements in a set in the domain x is 
+        2. a class can be included in another class (like Matrioshka dolls)
+        3. 19 page 100 (reader 2 first text): the variabiltiy of meanings: <br>
+            1. the idea is that a variable has a different <br>
+               truth value depending on the time and context<br>
+               it takes place:
+                1. t1=at time 1; t2=at time 2
+    
+    100-101 (Read again)
+    140-145:
 
 
 
