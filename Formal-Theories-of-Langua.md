@@ -312,7 +312,7 @@ Logic aims to model intuition of speakers, not replace <br> them
     
     100-101 (Read again)
     140-145:
-
+    Read Chomsky
 
 
 
